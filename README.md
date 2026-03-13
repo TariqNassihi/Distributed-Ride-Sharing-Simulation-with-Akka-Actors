@@ -40,11 +40,3 @@ A temporary actor created to find a driver for a specific ride request.
 ### RideSharingSystem
 Initializes the system and simulates platform activity by generating passengers, drivers, and ride requests.
 
-## Features
-
-- Actor-based microservice architecture
-- Asynchronous message passing between actors
-- Dynamic ride matching
-- Payment processing
-- Pricing calculation
-- Fault recovery and system monitoring
